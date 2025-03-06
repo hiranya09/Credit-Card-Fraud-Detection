@@ -9,4 +9,5 @@ Size: 284,807 transactions
 Classes:
 0 (Non-Fraudulent Transactions)
 1 (Fraudulent Transactions)
+
 Imbalance: Only 0.172% of the dataset consists of fraudulent transactions.
